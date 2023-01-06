@@ -1,11 +1,8 @@
 I'm a native mobile application programmer.
 
-## Android
-- Waiting..
+> 2022 BigData Start
 
-## iOS
-- Waiting..
+> 2017 iOS Start
 
-## BigData
-- I'm learning this
+> 2012 Android Start
 
